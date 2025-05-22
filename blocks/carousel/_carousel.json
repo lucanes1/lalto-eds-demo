@@ -33,6 +33,18 @@
   ],
   "models": [
     {
+      "id": "carousel",
+      "fields": [
+        {
+          "component": "text",
+          "name": "text",
+          "value": "",
+          "label": "Text",
+          "valueType": "string"
+        }
+      ]
+    },
+    {
       "id": "carousel-slide",
       "fields": [
         {
